@@ -16,3 +16,6 @@
 bin/
 obj/
 
+git add .gitignore
+git commit -m "Adiciona .gitignore para ignorar arquivos do Visual Studio"
+git push origin main
