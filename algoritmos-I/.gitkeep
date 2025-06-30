@@ -1,1 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ipch
+*.db
+*.bak
+
+# build folders
+bin/
+obj/
 
