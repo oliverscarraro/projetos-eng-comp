@@ -16,12 +16,12 @@ Este repositório reúne projetos acadêmicos desenvolvidos ao longo do curso de
 
 Cada pasta representa uma disciplina, contendo os respectivos projetos, organizados por tema ou entrega:
 
-algoritmos-I/
-algoritmos-II/
-poo-java/
-calculo-avancado-python/
-bdi-sql/
-bdii-tsql/
+- `algoritmos-I/`
+- `algoritmos-II/`
+- `poo-java/`
+- `calculo-avancado-python/`
+- `bdi-sql/`
+- `bdii-tsql/`
 
 ## Detalhamento por Disciplina
 
